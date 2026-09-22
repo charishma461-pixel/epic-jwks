@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "use": "sig",
+      "alg": "ES256",
+      "kid": "eZint-ec-key-1",
+      "crv": "P-256",
+      "x": "jJzKic1PxN7NoVyHhTYxKfx_EUfG07kaBHOY1-md2tI",
+      "y": "3tW31hobQLEi_htaRm3Ts3CWnahwaZWvrJXlS3fy9_g"
+    }
+  ]
+}
